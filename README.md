@@ -24,9 +24,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h5>
 
-- 👀 I’m a freelance android developer
-- 🌱 I’m a hands-on and currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few
-- :zap: In my free time, I love bike riding, reading books, listening to music and working out
+- 👀 I’m a freelance android developer.
+- 🌱 I’m a hands-on developer and currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few. I also do have great interests in learning new technologies as tasks come by that may demand new technologies of interest.
+- :zap: In my free time, I love bike riding, reading books, listening to music and working out.
 <!-- - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144)) -->
 <!-- - 💞️  -->
 ---
