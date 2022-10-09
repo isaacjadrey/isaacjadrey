@@ -20,12 +20,13 @@
 
 ### :man_technologist: Little About Me :
 <h5>
-  Hi there, My name Isaac Jadrey Ongwara Jr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  Hi there, My name is Isaac Jadrey Ongwara Jr 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h5>
 
 - 👀 I’m a freelance android developer
 - 🌱 I’m currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few
-- :zap: In my free time, I love bike riding, book reading, listening to music and working out
+- :zap: In my free time, I love bike riding, reading books, listening to music and working out
 <!-- - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144)) -->
 <!-- - 💞️  -->
 
