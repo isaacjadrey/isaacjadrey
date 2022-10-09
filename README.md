@@ -13,7 +13,7 @@
   </a> -->
 </div>
 <div id="badges" align="center">
-<img align="center" src="https://komarev.com/ghpvc/?username=jadrey&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=isaacjadrey&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
