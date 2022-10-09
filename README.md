@@ -29,6 +29,12 @@
 - :zap: In my free time, I love bike riding, reading books, listening to music and working out
 <!-- - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144)) -->
 <!-- - 💞️  -->
+---
+
+### :earth_americas: Connect With Me :
+<a href="https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144">
+  <img align="end" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
+</a>
 
 <!---
 Jadrey/Jadrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
