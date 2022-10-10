@@ -59,4 +59,4 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacjadrey&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjadrey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjadrey&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
