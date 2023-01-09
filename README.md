@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
+<!--   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
@@ -24,8 +24,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h5>
 
-- 👀 An enthusiastic and freelance android developer.
-- 🌱 I do hands-on development and currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few. I also do have great interests in learning new technologies as tasks come by that may demand new technologies of interest.
+- 👀 I'm a self-taught android developer.
+- 🌱 I do hands-on development and love working on projects as a way to teach myself, currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few.
 - :zap: In my free time, I love bike riding, reading books, listening to music and working out.
 
 ---
