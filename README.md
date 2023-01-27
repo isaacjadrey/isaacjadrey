@@ -7,10 +7,10 @@
   </a>
 <!--   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
+  <a href="https://twitter.com/JadIsaac">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> 
 </div>
 <div id="badges" align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=isaacjadrey&style=flat-square&color=blue" alt=""/>
@@ -32,8 +32,11 @@
 
 ### :earth_americas: Connect With Me :
 <a href="https://www.linkedin.com/in/isaac-jadrey-ongwara-jr-6b6049144">
-  <img align="end" width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/>
 </a>
+<a href="https://twitter.com/JadIsaac">
+  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
+  </a>
 
 ---
 
