@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
@@ -14,6 +14,7 @@
 </div>
 <div id="badges" align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=isaacjadrey&style=flat-square&color=blue" alt=""/>
+  <h3>When you want to learn something new, don't learn the basics</h3>
 </div>
 
 ---
@@ -24,9 +25,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h5>
 
-- 👀 I'm a self-taught android developer.
-- 🌱 I do hands-on development and love working on projects as a way to teach myself, currently learning and upskilling my skills with android development in room database, firebase, jetpack Compose to mention but a few.
-- :zap: In my free time, I love bike riding, reading books, listening to music and working out.
+- 👀 I'm an android developer.
+- 🌱 I love doing hands-on development and working on projects as a way to teach myself, currently learning and upskilling my skills in android development with room database, firebase, jetpack Compose to mention but a few.
+- :zap: while not coding, I love bike riding, reading books, listening to music and working out and spending some quality time alone.
 
 ---
 
@@ -55,8 +56,11 @@
 ---
 
 ### :fire: My Stats :
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacjadrey&theme=radical)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats-hwmlqukis-isaacjadrey.vercel.app/api?username=isaacjadrey&show_icons=true&hide=prs,issues,contribs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacjadrey&show_icons=true&hide=prs,issues,contribs&theme=radical)
 
-[![Top Langs](https://github-readme-stats-hwmlqukis-isaacjadrey.vercel.app/api/top-langs/?username=isaacjadrey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjadrey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
