@@ -26,8 +26,8 @@
 </h5>
 
 - 👀 I'm an android developer.
-- 🌱 I love doing hands-on development and working on projects as a way to teach myself, currently learning and upskilling my skills in android development with room database, firebase, jetpack Compose to mention but a few.
-- :zap: while not coding, I love bike riding, reading books, listening to music and working out and spending some quality time alone.
+- 🌱 I do hands-on development and working on projects as a way to teach myself, currently learning and upskilling my skills in android development with room database, firebase, jetpack Compose to mention but a few.
+- :zap: while not coding, you get me bike riding, reading books, listening to music and working out and spending some quality time alone.
 
 ---
 
