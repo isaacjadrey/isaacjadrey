@@ -60,7 +60,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isaacjadrey&theme=radical)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacjadrey&show_icons=true&hide=prs,issues,contribs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacjadrey&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjadrey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
