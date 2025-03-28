@@ -27,8 +27,9 @@
 /<a href="https://twitter.com/JadIsaac">
   /<img width="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
   /</a>
--->
+  
 ---
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
