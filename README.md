@@ -1,13 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
-<div id="badges" align="center">
 
-
-<a href="https://twitter.com/JadIsaac">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> 
-</div>
 <div id="badges" align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=isaacjadrey&style=flat-square&color=blue" alt=""/>
   <h3>When you want to learn something new, don't learn the basics</h3>
@@ -27,13 +21,13 @@
 
 ---
 
-### :earth_americas: Connect With Me :
+<!-- ### :earth_americas: Connect With Me :
 
 
-<a href="https://twitter.com/JadIsaac">
-  <img width="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
-  </a>
-
+/<a href="https://twitter.com/JadIsaac">
+  /<img width="30" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"/>
+  /</a>
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
